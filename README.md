@@ -5,6 +5,9 @@ Task Views proposal for games
 *Include one or two paragraphs about the scope of the task view, outlining the inclusion and exclusion criteria
   as well as relevant sections within the topic.*
   
+This proposal contains a list of R packages that are games or are about games, including game theory.
+Board games, video games and puzzles are included.
+  
 # _Packages:_ 
 *Include a _tentative list_ of packages for the task view. This should encompass the "core" packages
   and a collection of relevant packages, ideally grouped by sections within the topic. It is not important, yet,
