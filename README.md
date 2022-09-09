@@ -15,7 +15,7 @@ Will add each CRAN package with 'game' in it here, then go through them and remo
 
 Games marked with \* need checking by installing and using the package.
 
-Playable
+### Playable
 - BetaBit\*
 - rwarrior 
 - BoardGames\*
@@ -40,17 +40,17 @@ Playable
 - ztype\*
 
 
-Board Game Simulations
+### Board Game Simulations (when the game isn't 'playable')
 - CamelUp
 - stockfish\*
 - whitechapelR\*
 - bigchess\*
 - rchess\*
 
-Analytics: 
+### Analytics: 
 - bggAnalytics\*
 
-Game Theory
+### Game Theory
 - GPGame (Double check this is the correct category)\*
 - CoopGame\*
 - coopProductGame\*
@@ -67,7 +67,7 @@ Game Theory
 - QGameTheory\*
 - sigInt\*
 
-Game graphics:
+### Game graphics:
 - piecepackr\*
 - unifir\*
 - nara (Not on CRAN)
@@ -80,10 +80,6 @@ Other/to be categorised:
 - obfuscatoR\*
 - Rsgf\*
 
-
-Tentative packages:
-- Rsgf (tentative)\*
-- nara (Not on CRAN, but may still be acceptable)\*
   
 # _Overlap:_
 *Comment on potential overlap with already existing task views as well as with task views that might be
