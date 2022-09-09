@@ -13,29 +13,77 @@ Task Views proposal for games
 Will need to use each package to determine it's correct category.
 Will add each CRAN package with 'game' in it here, then go through them and remove any that don't fit. 
 
-Games
-- BetaBit (to be checked)
-- rwarrior 
-- BoardGames (to be checked)
-- casino (to be checked)
-- ChaosGame (to be checked)
+Games marked with \* need checking by installing and using the package.
 
-Game Simulations
-- CamelUp (to be checked)
+Playable
+- BetaBit\*
+- rwarrior 
+- BoardGames\*
+- casino\*
+- ChaosGame\*
+- chess\*
+- chessR\*
+- codebreaker\*
+- FourScores\*
+- happytime\*
+- lightsout\*
+- pixelpuzzle\*
+- proton\*
+- snake
+- SnakesAndLaddersAnalysis\*
+- sokoban\*
+- soduku\*
+- sodukuAlt\*
+- tictactoe\*
+- twenty48\*
+- wordler\*
+- ztype\*
+
+
+Board Game Simulations
+- CamelUp
+- stockfish\*
+- whitechapelR\*
+- bigchess\*
+- rchess\*
 
 Analytics: 
-- bggAnalytics (to be checked)
+- bggAnalytics\*
 
 Game Theory
-- GPGame (Double check this is the correct category) (to be checked)
+- GPGame (Double check this is the correct category)\*
+- CoopGame\*
+- coopProductGame\*
+- EpistemicGameTheory\*
+- EvolutionaryGames\*
+- GameTheory\*
+- GameTheoryAllocation\*
+- GPGame\*
+- gtop\*
+- HyRiM\*
+- kaos\*
+- locationgamer\*
+- PoA\*
+- QGameTheory\*
+- sigInt\*
 
 Game graphics:
-- piecepackr  (to be checked)
-- unifir (to be checked)
+- piecepackr\*
+- unifir\*
+- nara (Not on CRAN)
+
+
+Other/to be categorised:
+- gamblers.ruin.gameplay
+- gameR\*
+- gamesGA\*
+- obfuscatoR\*
+- Rsgf\*
+
 
 Tentative packages:
-- Rsgf (tentative) (to be checked)
-- nara (Not on CRAN, but may still be acceptable)
+- Rsgf (tentative)\*
+- nara (Not on CRAN, but may still be acceptable)\*
   
 # _Overlap:_
 *Comment on potential overlap with already existing task views as well as with task views that might be
