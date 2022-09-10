@@ -98,6 +98,7 @@ Other/to be categorised:
   as well in the proposal.*
   
 - Rick Tankard as principal maintainer. 
-- Reached out to two others as co-maintainers
+- Matt Dray as co-maintainer
+- Reached out to @coolbutuseless
   
   
