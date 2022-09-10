@@ -25,7 +25,6 @@ Games marked with \* need checking by installing and using the package.
 - BoardGames\*
 - casino\*
 - chess\*
-- chessR\*
 - codebreaker\*
 - FourScores\*
 - happytime\*
@@ -52,6 +51,7 @@ Games marked with \* need checking by installing and using the package.
 
 ### Analytics: 
 - bggAnalytics\*
+- chessR
 
 ### Game Theory (not sure if these should be included on the list at all? maybe not)
 - GPGame (Double check this is the correct category)\*
