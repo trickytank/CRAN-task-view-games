@@ -82,7 +82,7 @@ Other/to be categorised:
 - obfuscatoR\*
 - Rsgf\*
 
-### Not a game:
+### Not a game (not to be included on list)
 - ChaosGame
 
   
