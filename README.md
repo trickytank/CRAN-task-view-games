@@ -23,7 +23,6 @@ Games marked with \* need checking by installing and using the package.
 - rwarrior 
 - BoardGames\*
 - casino\*
-- ChaosGame\*
 - chess\*
 - chessR\*
 - codebreaker\*
@@ -82,6 +81,9 @@ Other/to be categorised:
 - gamesGA\*
 - obfuscatoR\*
 - Rsgf\*
+
+### Not a game:
+- ChaosGame
 
   
 # _Overlap:_
