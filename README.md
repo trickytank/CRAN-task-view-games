@@ -1,5 +1,6 @@
 # CRAN-task-view-games
-Task Views proposal for games
+Task Views proposal for games. 
+Still very much a work in progress. 
 
 # _Scope:_ 
 *Include one or two paragraphs about the scope of the task view, outlining the inclusion and exclusion criteria
