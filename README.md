@@ -53,7 +53,7 @@ Games marked with \* need checking by installing and using the package.
 ### Analytics: 
 - bggAnalytics\*
 
-### Game Theory
+### Game Theory (not sure if these should be included on the list at all? maybe not)
 - GPGame (Double check this is the correct category)\*
 - CoopGame\*
 - coopProductGame\*
