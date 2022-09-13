@@ -26,6 +26,7 @@ Games marked with \* need checking by installing and using the package.
 - casino\*
 - chess\*
 - codebreaker\*
+- fun\*
 - FourScores\*
 - happytime\*
 - lightsout\*
